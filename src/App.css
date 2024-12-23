@@ -1,0 +1,26 @@
+*{
+  box-sizing: border-box !important;
+}
+
+.app-header {
+  background: black !important;
+  display: flex !important;
+}
+
+.w-mx-1200 {
+max-width: 1200px;
+}
+
+.gap-30 {
+gap: 30px;
+}
+
+.card {
+background-color: #ffffff;
+border: 1px solid #ddd;
+}
+
+.w-300 {
+width: 300px;
+}
+
